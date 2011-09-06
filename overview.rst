@@ -121,3 +121,55 @@ Un nodo APESOL deja de existir cuando el asociado supervisor envie una solicitud
 de clausura de nodo y esta es aprobada, previa revisión de antecedentes ante los
 miembros asociados, esta solicitud puede darse en cualquier momento a criterio
 del supervisor.
+
+/* COMENTARIOS 
+
+0. Palabras demas ponposas "gratis, gratuitamente" líneas (109, 116)
+ 
+1. Especificar sobre los Nodos:
+
+ - ¿Qué Actividades realizan?
+
+   * Activismo?
+   * Charlas,
+   * Reuniones,
+   * Acciones,
+   * Talleres, etc
+
+ - Proyectos iniciales?
+
+   * Infraestructura de Información y Comunicación (Investigación, Desarrollo, etc)
+   * Financiamiento de las Actividades, Gestión?
+   * Evento de Presentación del Nodo.
+ 
+ - Problematica del entorno de los Nodos?
+
+ - Actividades Entre los Nodos y Apesol?
+
+ - Resposabilidad social, de los Nodos?
+
+ - Sostenibilidad de los Nodo? 
+
+ - Nuevos integrantes?
+
+ - Objeto de un Nodo?
+
+
+ AUTORIDAD
+
+ - Que supervisa Apesol?
+
+ - Que supervisa las Instituciones?
+
+ - Actividades Entre los Nodos y Apesol?
+ 
+ - En que instituciones se pueden crear Nodos?
+
+ - Filosofía de los Nodo?
+
+ MARCO LEGAL,
+ MARCO TECNICO,
+ MARCO ORGANIZACIONAL,
+
+Un wiki bien configurado, te da el control de los cambios; dokuwiki por ultimo.
+*/
