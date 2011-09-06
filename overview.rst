@@ -122,7 +122,7 @@ de clausura de nodo y esta es aprobada, previa revisión de antecedentes ante lo
 miembros asociados, esta solicitud puede darse en cualquier momento a criterio
 del supervisor.
 
-/* COMENTARIOS 
+COMENTARIOS 
 
 0. Palabras demas ponposas "gratis, gratuitamente" líneas (109, 116)
  
@@ -172,4 +172,3 @@ del supervisor.
  MARCO ORGANIZACIONAL,
 
 Un wiki bien configurado, te da el control de los cambios; dokuwiki por ultimo.
-*/
